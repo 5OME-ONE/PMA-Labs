@@ -31,6 +31,7 @@ ___
         ![Alt text](Images/2-3-a.png) 
 
     * After that, a comparison occures to test if that connection happened. Then, we see a call to "InternetReadFile" that will be used to read a 200 Bytes from the HTML page.
+    
         ![Alt text](Images/2-3-b.png)
 
     * Again,  a comparison occures to test if that command has been executed if so, it will test if a sequence of characters are equals to "3C", "21", "20" and "20" which in ASCII are "<!--" ,  this format is the comment format in HTML.

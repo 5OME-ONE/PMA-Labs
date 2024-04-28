@@ -4,7 +4,8 @@
 
 1. * By checking the main function using "IDA-PRO", we see that a hint
 says "MalService" then a call to "StartServiceCtrIDispatcherA" function.
-    ![Alt text](Images/1-1-a.png)
+
+        ![Alt text](Images/1-1-a.png)
 
     * By getting into the sub_401040 we see evidence of creating a service.
     ![Alt text](Images/1-1-b.png)
@@ -20,7 +21,8 @@ says "MalService" then a call to "StartServiceCtrIDispatcherA" function.
     ___
 
 4. Now we see that it uses the "user-agent Internet Explorer 8.0" to get access to the url "http://www.malwareanalysisbook.com" which represent a network-based indicator.
-![Alt text](Images/1-4.png)
+
+    ![Alt text](Images/1-4.png)
     ___
 
 5. The purpose of this program could be obtained from the next
@@ -29,9 +31,11 @@ says "MalService" then a call to "StartServiceCtrIDispatcherA" function.
         ![Alt text](Images/1-5-a.png)
     
     * Next malware is set to sleep untill the year of 2100 comes.
-    ![Alt text](Images/1-5-b.png)
+
+        ![Alt text](Images/1-5-b.png)
     * When that year comes, an infinte loop will start sending requests to the url "http://www.malwareanalysisbook.com" as a distributed denial-of-service (DDoS) attack.
-    ![Alt text](Images/1-4.png)
+
+        ![Alt text](Images/1-4.png)
     ___
 
 6. This program will never terminate as it is uncodditional jump "INFINITE LOOP".

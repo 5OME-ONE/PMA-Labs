@@ -130,4 +130,5 @@ Now we understand what happend:
     * The internal instructions of the for loop are to preformed an (XOR) operation for every time the loop happened.
     * The overview of the code is that it does an (XOR) operation for our random (50) data which will turn them too more human readable data.
 
-    <p style="text-align: center;">Text with basic formatting applied </p>
+___
+___
