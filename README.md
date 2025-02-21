@@ -16,8 +16,7 @@ In this Rebo I will upload solutions for some of the labs of the
 | Chapter 6  | <ul><li>- [X] completed </li> <ul>         |
 | Chapter 7  | <ul><li>- [X] completed </li> <ul>         |
 | Chapter 9  | <ul><li>- [X] completed </li> <ul>         |
-| Chapter 11 | <ul><li>- [X] Not completed yet </li> <ul> |
-| Chapter 12 | <ul><li>- [ ] Not completed yet </li> <ul> |
-| Chapter 13 | <ul><li>- [ ] Not completed yet </li> <ul> |
-| Chapter 14 | <ul><li>- [ ] Not completed yet </li> <ul> |
+| Chapter 11 | <ul><li>- [X] completed </li> <ul>         |
+| Chapter 15 | <ul><li>- [X] completed </li> <ul>         |
+
 
